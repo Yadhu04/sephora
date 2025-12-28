@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:sephora/presentation/pages/product_list_page.dart';
-import 'package:sephora/presentation/pages/search_page.dart';
+
 import 'package:sephora/presentation/providers/similar_product_provider.dart';
 
 import 'core/utils/screen_util_init.dart';
